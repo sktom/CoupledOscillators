@@ -1,0 +1,10 @@
+
+DT = 0.001
+TOTAL_TIME = 300.0
+NUMBER_OSCILLATORS = 4
+OUT_FILENAME = '../results/res.data'
+NUMBER_DECIMATE = 1000
+
+TYPE_OSCILLATOR = :dens
+MODE_PLOT = :default
+
